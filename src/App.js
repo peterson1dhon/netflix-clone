@@ -9,7 +9,14 @@ function App() {
       {/* Destaque */}
       {/* Em alta */}
       {/* filmes de cada categoria */}
-      <Row />
+      {categories.map((category) => {
+        return (
+          <Row 
+            key={category.name} 
+            title={category.title} 
+            path={category.path} />
+        );
+      })}
      </div>
   );
 }
