@@ -25,6 +25,9 @@
     height: 80px;
 }
 
+.banner-button-container {
+}
+
 .banner-button {
     cursor: pointer;
     color: #fff;
