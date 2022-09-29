@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![preview](./.github/preview.png)
+![preview]([./.github/preview.png](https://drive.google.com/file/d/1T_o8SPnuwakypU2bgp4Fcjp7rLv4Q1IP/view?usp=sharing))
 
 > Netflix clone com REACT JS 
 
